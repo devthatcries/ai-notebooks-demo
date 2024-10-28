@@ -6,12 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="29203b9e-9103-4768-8bd6-c1ce6636aade" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1st-class/Instalar Google Colaboratory.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1st-class/dot point.JPG.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1st-class/matrix multiplication.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1st-class/python.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1st-class/python.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1st-class/std.JPG.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1st-class/volumen cono.JPG.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st-class/.assignment.ipynb.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st-class/assignment/assignment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2nd-class/assignment/assignment.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st-class/assignment/matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/2nd-class/assignment/matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st-class/assignment/vector.py" beforeDir="false" afterPath="$PROJECT_DIR$/2nd-class/assignment/vector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st-class/modulos.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2nd-class/modulos.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st-class/regular_matrix.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2nd-class/regular_matrix.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd-class/AI_class2.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +58,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/2nd-class" />
       <recent name="$PROJECT_DIR$/1st-class" />
     </key>
   </component>
@@ -79,7 +81,7 @@
       <workItem from="1730068106278" duration="262000" />
       <workItem from="1730068383630" duration="20000" />
       <workItem from="1730068408000" duration="160000" />
-      <workItem from="1730068581770" duration="3699000" />
+      <workItem from="1730068581770" duration="4848000" />
     </task>
     <servers />
   </component>
