@@ -1,35 +1,35 @@
-from vector import dotProduct
+from vector import dot_product
 
 __all__ = "multiply"
 
-def multiply(A, B):
-  if (not areMatricesValid(A, B)):
+def multiply(matrix_x, matrix_y):
+  if not are_matrices_valid(matrix_x, matrix_y):
     return "Please enter valid matrices"
 
-  columns = matrixColumns(B)
+  columns = matrix_column(matrix_y)
   matrix = []
-  for x in range(0, len(A)):
+  for x in range(0, len(matrix_x)):
     vector = []
     for y in range(0, len(columns)):
-        vector.append(dotProduct(A[x], columns[y]))
+        vector.append(dot_product(matrix_x[x], columns[y]))
     matrix.append(vector)
 
   return matrix
 
-def areMatricesValid(A, B) -> bool:
-  areValid = True
-  for x in range(0, len(A)):
-    if (len(A[x]) != len(B)):
-      areValid = False
-  return areValid
+def are_matrices_valid(matrix_x, matrix_y) -> bool:
+  are_valid = True
+  for x in range(0, len(matrix_x)):
+    if len(matrix_x[x]) != len(matrix_y):
+      are_valid = False
+  return are_valid
 
-def matrixColumns(A):
+def matrix_column(matrix):
   columns = []
-  for x in range(0, len(A)):
-    for y in range(0, len(A[x])):
+  for x in range(0, len(matrix)):
+    for y in range(0, len(matrix[x])):
       vector = []
-      for z in range(0, len(A)):
-        vector.append(A[z][y])
+      for z in range(0, len(matrix)):
+        vector.append(matrix[z][y])
       columns.append(vector)
     break
   return columns
