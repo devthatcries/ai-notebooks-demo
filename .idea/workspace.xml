@@ -6,18 +6,18 @@
   <component name="ChangeListManager">
     <list default="true" id="29203b9e-9103-4768-8bd6-c1ce6636aade" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1st-class/.assignment.ipynb.layout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1st-class/assignment/assignment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2nd-class/assignment/assignment.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1st-class/assignment/matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/2nd-class/assignment/matrix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1st-class/assignment/vector.py" beforeDir="false" afterPath="$PROJECT_DIR$/2nd-class/assignment/vector.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1st-class/modulos.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2nd-class/modulos.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1st-class/regular_matrix.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2nd-class/regular_matrix.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2nd-class/AI_class2.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
   </component>
   <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
     <envs>
@@ -37,6 +37,9 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2o2WMiTMf18KY765q0Bwe5kUWYW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -58,8 +61,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/2nd-class" />
       <recent name="$PROJECT_DIR$/1st-class" />
+      <recent name="$PROJECT_DIR$/2nd-class" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -81,7 +84,7 @@
       <workItem from="1730068106278" duration="262000" />
       <workItem from="1730068383630" duration="20000" />
       <workItem from="1730068408000" duration="160000" />
-      <workItem from="1730068581770" duration="4848000" />
+      <workItem from="1730068581770" duration="5606000" />
     </task>
     <servers />
   </component>
